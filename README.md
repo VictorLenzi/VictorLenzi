@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-Trabalho com desenvolvimento de sistemas backend em InterSystems Caché/IRIS, criando e integrando APIs REST em ObjectScript para sistemas corporativos, com forte atuação no setor têxtil. Também construo interfaces web modernas em **React**, **TypeScript**, **NodeJS** e **Next.JS**.
+Desenvolvedor Pleno, atuo com desenvolvimento de sistemas backend em InterSystems Caché/IRIS, criando e integrando APIs REST em ObjectScript para sistemas corporativos, com forte atuação no setor têxtil. Também construo interfaces web modernas em **React**, **TypeScript**, **NodeJS** e **Next.JS**.
 
 ### 🛠️ Stack
 
