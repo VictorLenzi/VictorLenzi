@@ -39,8 +39,8 @@ Trabalho com desenvolvimento de sistemas backend em InterSystems Caché/IRIS, cr
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="github-readme-stats-sigma-five.vercel.app/api?username=VictorLenzi&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorLenzi&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VictorLenzi&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorLenzi&layout=compact&hide_border=true" />
 </p>
 
 <p align="left">
