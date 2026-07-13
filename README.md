@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-Trabalho com desenvolvimento de sistemas backend em **InterSystems Caché/IRIS**, incluindo WMS (Warehouse Management System) e APIs REST em ObjectScript. Também construo interfaces web modernas em **React**, **TypeScript**, **NodeJS** e **Next.JS**.
+Trabalho com desenvolvimento de sistemas backend em InterSystems Caché/IRIS, criando e integrando APIs REST em ObjectScript para sistemas corporativos, com forte atuação no setor têxtil. Também construo interfaces web modernas em **React**, **TypeScript**, **NodeJS** e **Next.JS**.
 
 ### 🛠️ Stack
 
@@ -39,8 +39,8 @@ Trabalho com desenvolvimento de sistemas backend em **InterSystems Caché/IRIS**
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorLenzi&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLenzi&layout=compact&hide_border=true" />
+  <img height="165" src="github-readme-stats-sigma-five.vercel.app/api?username=VictorLenzi&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorLenzi&layout=compact&hide_border=true" />
 </p>
 
 <p align="left">
