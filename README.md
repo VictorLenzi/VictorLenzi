@@ -35,6 +35,14 @@ Sou desenvolvedor pleno e trabalho com back-end em InterSystems IRIS/Caché, pro
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=VictorLenzi&hide_border=true" />
+</p>
+
+---
+
 ### 📫 Contato
 
 - 💼 LinkedIn: [linkedin.com/in/victor-lenzi](https://www.linkedin.com/in/victor-lenzi/)
