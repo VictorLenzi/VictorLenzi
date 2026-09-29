@@ -17,7 +17,7 @@ Desenvolvedor de Software Pleno | Back-end em InterSystems IRIS/Caché
 
 ### 🧑‍💻 Sobre mim
 
-Sou desenvolvedor pleno e trabalho com back-end em InterSystems IRIS/Caché, programando em ObjectScript. Customizo ERPs usados pela indústria têxtil e crio APIs REST que ligam esses sistemas a telas web e a coletores de código de barras. Quando precisa, também desenvolvo telas em React.
+Sou desenvolvedor pleno e trabalho com back-end em InterSystems IRIS/Caché, programando em ObjectScript. Customizo ERPs usados pela indústria têxtil e crio APIs REST que ligam esses sistemas a telas web e a coletores de código de barras. Quando necessário também desenvolvo telas em React.
 
 ### 🛠️ Stack
 
